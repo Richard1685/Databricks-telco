@@ -1,3 +1,3 @@
-# Databricks-telco
+Databricks-telco
 
 print ("Hola mundo")
